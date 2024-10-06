@@ -1,6 +1,4 @@
-# Simple Keyboard
-<img alt="Logo" src="graphics/icon.png" width="120" />
-
+# Minerboard
 A lightweight keyboard app that helps chatting with your friends, or inserting any other texts, numbers or symbols. You can choose from multiple different languages and layouts.
 
 You can create handy clips and pin frequently used ones for easy access. You can toggle vibrations, popups on keypresses or select your language from the list of supported ones.
